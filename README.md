@@ -21,7 +21,7 @@ The communication with the PC is established through USART/UART, using a USB con
    - Enable clicks and double clicks through specific finger gestures.
    - (Optional) Implement left and right-click functionalities.
 
-2. **Gesture Design (4 Students):**
+2. **Gesture Design:**
    - Collaboratively design mouse gestures using two fingers.
    - Examples of gestures include zoom in/out, ALT-TAB, and more.
 
