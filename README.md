@@ -1,4 +1,4 @@
-# Air Mouse System Fingers Based
+# Air Mouse System Fingers Based (STM32CubeIDE)
 <div align='center'>
   <img src="Schemes/RealisedSystem.png" alt="High Level Hardware Architecture" style="width:50%; max-width:400px;">
 </div>
