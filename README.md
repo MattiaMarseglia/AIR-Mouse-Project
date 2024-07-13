@@ -1,6 +1,6 @@
 # Air Mouse System Fingers Based
 <div align='center'>
-  <img src="Schemes/highLevel_hardware_architecture.png" alt="High Level Hardware Architecture" style="width:50%; max-width:400px;">
+  <img src="Schemes/RealisedSystem.png" alt="High Level Hardware Architecture" style="width:50%; max-width:400px;">
 </div>
 ## Overview
 The **Air Mouse System Fingers Based** project involves the creation of a gesture-controlled mouse using a combination of accelerometers, gyroscopes, a real-time clock (RTC), and an SD card module. The goal is to allow users to control their computer's mouse cursor by moving their fingers in the air, creating patterns and gestures for various actions, like movement, click, double-click etc.
